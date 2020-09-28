@@ -1,0 +1,639 @@
+Data 10
+396 Car 0 chg Tower
+390 Car 8 chg Tower
+389 Car 9 chg Tower
+431 Car 3 chg Tower
+429 Car 7 chg Tower
+428 Car 9 chg Tower
+428 Car 9 chg Tower
+446 Car 0 chg Tower
+439 Car 8 chg Tower
+438 Car 9 chg Tower
+438 Car 9 chg Tower
+462 Car 3 chg Tower
+459 Car 7 chg Tower
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 9
+79 Car 3 chg Tower
+165 Car 0 chg Tower
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 8
+59 Car 6 chg Tower
+77 Car 3 chg Tower
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 7
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 6
+153 Car 2 chg Tower
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 5
+63 Car 10 chg Tower
+111 Car 7 chg Tower
+177 Car 0 chg Tower
+177 Car 0 chg Tower
+184 Car 0 chg Tower
+184 Car 0 chg Tower
+137 Car 7 chg Tower
+99 Car 10 chg Tower
+189 Car 0 chg Tower
+141 Car 7 chg Tower
+103 Car 10 chg Tower
+256 Car 0 chg Tower
+208 Car 7 chg Tower
+171 Car 10 chg Tower
+257 Car 0 chg Tower
+257 Car 0 chg Tower
+257 Car 0 chg Tower
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 4
+150 Car 5 chg Tower
+182 Car 2 chg Tower
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 3
+193 Car 4 chg Tower
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 2
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 1
+204 Car 6 chg Tower
+122 Car 10 chg Tower
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 10
+332 Car 6 chg Tower
+331 Car 8 chg Tower
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 9
+83 Car 3 chg Tower
+82 Car 8 chg Tower
+157 Car 3 chg Tower
+157 Car 3 chg Tower
+158 Car 3 chg Tower
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 8
+77 Car 6 chg Tower
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 7
+80 Car 6 chg Tower
+115 Car 1 chg Tower
+80 Car 7 chg Tower
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 6
+102 Car 4 chg Tower
+93 Car 5 chg Tower
+100 Car 6 chg Tower
+113 Car 5 chg Tower
+142 Car 0 chg Tower
+123 Car 4 chg Tower
+109 Car 6 chg Tower
+152 Car 0 chg Tower
+133 Car 4 chg Tower
+124 Car 5 chg Tower
+119 Car 6 chg Tower
+163 Car 0 chg Tower
+163 Car 0 chg Tower
+135 Car 5 chg Tower
+130 Car 6 chg Tower
+164 Car 0 chg Tower
+164 Car 0 chg Tower
+164 Car 0 chg Tower
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 5
+120 Car 4 chg Tower
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 4
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 3
+182 Car 3 chg Tower
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 2
+217 Car 4 chg Tower
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 1
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 10
+327 Car 11 chg Tower
+327 Car 11 chg Tower
+362 Car 5 chg Tower
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 9
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 8
+83 Car 1 chg Tower
+63 Car 6 chg Tower
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 7
+88 Car 3 chg Tower
+56 Car 8 chg Tower
+99 Car 2 chg Tower
+85 Car 4 chg Tower
+44 Car 11 chg Tower
+104 Car 3 chg Tower
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 6
+75 Car 7 chg Tower
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 5
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 4
+39 Car 11 chg Tower
+106 Car 10 chg Tower
+95 Car 11 chg Tower
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 3
+190 Car 2 chg Tower
+166 Car 4 chg Tower
+136 Car 6 chg Tower
+61 Car 11 chg Tower
+88 Car 9 chg Tower
+71 Car 10 chg Tower
+204 Car 2 chg Tower
+180 Car 4 chg Tower
+74 Car 11 chg Tower
+151 Car 6 chg Tower
+182 Car 4 chg Tower
+77 Car 11 chg Tower
+199 Car 3 chg Tower
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 2
+307 Car 1 chg Tower
+252 Car 4 chg Tower
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 1
+194 Car 3 chg Tower
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 10
+310 Car 1 chg Tower
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 9
+87 Car 3 chg Tower
+81 Car 5 chg Tower
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 8
+59 Car 8 chg Tower
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 7
+109 Car 0 chg Tower
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 6
+63 Car 9 chg Tower
+126 Car 5 chg Tower
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 5
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 4
+104 Car 11 chg Tower
+104 Car 11 chg Tower
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 3
+218 Car 3 chg Tower
+251 Car 4 chg Tower
+175 Car 9 chg Tower
+137 Car 11 chg Tower
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 2
+246 Car 2 chg Tower
+181 Car 6 chg Tower
+270 Car 0 chg Tower
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
+Data 1
+-Car 0 eq :true
+-Car 1 eq :true
+-Car 2 eq :true
+-Car 3 eq :true
+-Car 4 eq :true
+-Car 5 eq :true
+-Car 6 eq :true
+-Car 7 eq :true
+-Car 8 eq :true
+-Car 9 eq :true
+-Car 10 eq :true
+-Car 11 eq :true
